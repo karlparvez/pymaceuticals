@@ -1,0 +1,8 @@
+observations
+
+1.Capomulin is the most successful drug in the trail with evidence of shrinking tumors by 
+-19.475303%
+
+2.ketapril is the worst at preventing cancer cells metastasizing.
+
+3.Infubinol has the worst survival rate in the trail.
